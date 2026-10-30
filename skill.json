@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-genpark-sourcing",
+  "version": "1.0.0",
+  "description": "OpenClaw GenPark Sourcing - TOPSIS multi-criteria supplier selection and volume elasticity curve fitting with supply chain disruption risk.",
+  "tools": [
+    "evaluate_topsis_suppliers",
+    "fit_volume_discount_curve",
+    "assess_supplier_disruption_risk"
+  ]
+}
